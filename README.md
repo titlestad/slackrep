@@ -1,7 +1,8 @@
-#slackrep
+Slackrep
+---------
 Enhance your Slack experience with slackrep – a versatile Slack app designed to empower users with a variety of practical tools. Acting as a dedicated representative within your Slack workspace, slackrep streamlines manual tasks and facilitates seamless interactions.
 
-##Key Features:
+**Key Features:**
 1. Automation and Delegation
 slackrep simplifies routine tasks by automating processes that would otherwise require manual intervention. This not only boosts efficiency but also allows users to focus on more meaningful activities within the Slack channels.
 
@@ -14,7 +15,7 @@ Designed with administrators and moderators in mind, slackrep provides privilege
 4. Event Broadcasting and Group Management
 slackrep facilitates effective communication by enabling the broadcast of events and group-related activities. Admins and moderators can easily disseminate crucial information to channels, fostering a collaborative and organized workspace.
 
-##How to Use:
+**How to Use:**
 Implementing slackrep in your Slack workspace is straightforward. Simply add the app, and start leveraging its powerful features to enhance communication, automate tasks, and streamline administrative processes.
 
 Experience the convenience of having a reliable representative in your Slack server – slackrep is here to elevate your Slack interactions to new heights!
