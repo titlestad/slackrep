@@ -1,6 +1,6 @@
 Slackrep
 ---------
-Enhance your Slack experience with slackrep – a versatile Slack app designed to empower users with a variety of practical tools. Acting as a dedicated representative within your Slack workspace, Slackrep streamlines manual tasks and facilitates seamless interactions.
+Enhance your Slack experience with Slackrep – a versatile Slack app designed to empower users with a variety of practical tools. Acting as a dedicated representative within your Slack workspace, Slackrep streamlines manual tasks and facilitates seamless interactions.
 
 **Key Features:**
 1. Automation and Delegation
